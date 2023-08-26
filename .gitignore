@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.pickle
+venv
+*.zip
+bert_for_summary.ipynb
