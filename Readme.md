@@ -26,9 +26,9 @@ Here are the technologies and tools we used to build our AI solution:
 * **PyTorch** <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch" alt="PyTorch">
 * **Pandas** <img src="https://img.shields.io/badge/Pandas-%2317BECF?style=for-the-badge&logo=pandas" alt="Pandas">
 * **OpenCV**
-* * **Librosa**
-* * **NLTK**
-* * **Transformers**
+*  **Librosa**
+*  **NLTK**
+*  **Transformers**
 * **Pytorch**
 * [More technologies/tools used]
 
