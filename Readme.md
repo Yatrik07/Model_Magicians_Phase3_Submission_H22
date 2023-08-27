@@ -7,6 +7,7 @@
     * Keya Shah
     * Zeel Rathi
 - Contact Email:
+    * yatriks7@gmail.com
     * naqib.kadri.50@gmail.com
     * zeelrathi807@gmail.com
     * keyashah9009@gmail.com
