@@ -1,6 +1,6 @@
-# Project Name: [Project's Name]
+# The Healthcare Management System Using AI ( HEALTH CONNECT )
 
-## Team Name: Byte Builder/Model Magicians
+## Team Name: Model Magicians
 - Team Members:
     * Naqibahmed Kadri
     * Yatrik Shah
